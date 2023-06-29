@@ -24,6 +24,7 @@
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Smindlondz&show_icons=true&theme=radical" alt="smindlondz" />
 <br />
 <br />
+<br />
 
 <p><img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=smindlondz&" alt="smindlondz" /></p>
 
