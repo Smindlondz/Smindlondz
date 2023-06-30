@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **smindlondz@gmail.com**
 
-<h3 align="left" style="color: #44AEFB">Connect with me</h3>
-<br />
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mandla-ndzimakhwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandla-ndzimakhwe" height="30" width="40" /></a>
 </p>
